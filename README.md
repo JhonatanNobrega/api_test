@@ -10,5 +10,5 @@
 * price ( FLOAT )
 * quantities ( INT )
 
-Conexão liberada apenas para o site:  https://resttesttest.com
+Conexão liberada apenas para o site:  para todos os sites
 Tipos GET, POST, PUT, DELETE E OPTION
